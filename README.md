@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Nagalakshmi 
 
-/*### 🏅 B.Sc 2025 Graduate*/
 ### 💻 Aspiring Software Developer 
 
 #### 🌱 I'm currently Learning :
-##### 🖋️ Data Structure and Algorithm(DSA) using Java
-##### 🖋️ Data Management with Mysql
+> Data Structure and Algorithm(DSA) using Java
+> Data Management with Mysql
 ##### ✍️ Backend Development using JDBC(Database Connectivity
 ##### ✍️ Frontend Development with React js
 
