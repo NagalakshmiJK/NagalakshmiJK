@@ -10,6 +10,7 @@
 
 ### I code in
 ![This Network very slow](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)
+![this network very slow](<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>)
 
 <!--
 **NagalakshmiJK/NagalakshmiJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
