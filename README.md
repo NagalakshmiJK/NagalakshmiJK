@@ -16,6 +16,11 @@
 ![this network very slow](https://img.icons8.com/color/48/javascript--v1.png)
 ![this network very slow](https://img.icons8.com/office/40/react.png)
 
+🖥️ IDE and Tools I used
+![this tools load veryslow](https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg)
+![this tools load veryslow](https://github.com/daniruiz/flat-remix/issues/83)
+![this tools load veryslow](https://img.icons8.com/color/48/notion--v1.png)
+![this tools load veryslow](https://img.icons8.com/color/48/git.png)
 <!--
 **NagalakshmiJK/NagalakshmiJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
