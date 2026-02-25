@@ -1,5 +1,15 @@
 ## Hi there 👋 I'm Nagalakshmi 
-## Full Stack Developer 
+
+## 🏅 B.Sc 2025 Graduate
+## 🖥️💻 Aspiring Software Developer 
+
+#### 🌱🖋️✍️ I'm currently Learning :
+##### 🪄 Data Structure and Algorithm(DSA) using Java
+##### Data Management with Mysql
+##### Backend Development using JDBC(Database Connectivity
+##### Frontend Development with React js
+
+I'm currently learning 
 <!--
 **NagalakshmiJK/NagalakshmiJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
