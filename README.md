@@ -9,8 +9,12 @@
 - ✍️ Frontend Development with React js
 
 ### I code in
-![This Network very slow](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)
 ![this network very slow](https://img.icons8.com/color/48/c-programming.png)
+![this network very slow](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
+![this network very slow](https://img.icons8.com/color/48/html-5--v1.png)
+![this network very slow](https://img.icons8.com/color/48/css3.png)
+![this network very slow](https://img.icons8.com/color/48/javascript--v1.png)
+![this network very slow](https://img.icons8.com/office/40/react.png)
 
 <!--
 **NagalakshmiJK/NagalakshmiJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
