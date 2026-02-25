@@ -3,8 +3,8 @@
 ### 💻 Aspiring Software Developer 
 
 #### 🌱 I'm currently Learning :
-- Data Structure and Algorithm(DSA) using Java
-- Data Management with Mysql
+- ✍️ Data Structure and Algorithm(DSA) using Java
+- ✍️ Data Management with Mysql
 - ✍️ Backend Development using JDBC(Database Connectivity
 - ✍️ Frontend Development with React js
 
@@ -22,6 +22,9 @@
 ![this tools load veryslow](https://img.icons8.com/office/40/java-eclipse.png)
 ![this tools load veryslow](https://img.icons8.com/color/48/notion--v1.png)
 ![this tools load veryslow](https://img.icons8.com/color/48/git.png)
+
+### Leetcode state
+![LeetCode Stats](https://leetcard.jacoblin.cool/NagalakshmiJK?theme=dark&font=Readex%20Pro&ext=contest)
 <!--
 **NagalakshmiJK/NagalakshmiJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
