@@ -16,8 +16,9 @@
 ![this network very slow](https://img.icons8.com/color/48/javascript--v1.png)
 ![this network very slow](https://img.icons8.com/office/40/react.png)
 
-🖥️ IDE and Tools I used
-![this tools load veryslow](https://img.icons8.com/ios-glyphs/30/228BE6/visual-studio.png)
+### 🖥️ IDE and Tools I used
+
+![this tools load veryslow](https://img.icons8.com/ios-glyphs/60/228BE6/visual-studio.png)
 ![this tools load veryslow](https://img.icons8.com/office/40/java-eclipse.png)
 ![this tools load veryslow](https://img.icons8.com/color/48/notion--v1.png)
 ![this tools load veryslow](https://img.icons8.com/color/48/git.png)
