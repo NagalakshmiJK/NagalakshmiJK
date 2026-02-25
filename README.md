@@ -3,7 +3,7 @@
 ### 💻 Aspiring Software Developer 
 
 #### 🌱 I'm currently Learning :
-> Data Structure and Algorithm(DSA) using Java
+-First item Data Structure and Algorithm(DSA) using Java
 > Data Management with Mysql
 ##### ✍️ Backend Development using JDBC(Database Connectivity
 ##### ✍️ Frontend Development with React js
