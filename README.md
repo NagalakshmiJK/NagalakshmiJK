@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Nagalakshmi 
+### Hi there 👋 I'm Nagalakshmi 
 
-### 🏅 B.Sc 2025 Graduate
+/*### 🏅 B.Sc 2025 Graduate*/
 ### 💻 Aspiring Software Developer 
 
 #### 🌱 I'm currently Learning :
