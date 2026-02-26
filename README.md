@@ -19,9 +19,9 @@
 ### 🖥️ IDE and Tools I used
 
 ![this tools load veryslow](https://img.icons8.com/ios-filled/50/228BE6/visual-studio.png)
-![this tools load veryslow](https://img.icons8.com/officel/40/java-eclipse.png)
 ![this tools load veryslow](https://img.icons8.com/color/48/notion--v1.png)
 ![this tools load veryslow](https://img.icons8.com/color/48/git.png)
+![this tools load veryslow](https://img.icons8.com/officel/40/java-eclipse.png)
 
 ### Leetcode state
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NagalakshmiJK?theme=dark&font=Noto%20Serif%20Bengali&ext=heatmap)
