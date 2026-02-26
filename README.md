@@ -24,7 +24,7 @@
 ![this tools load veryslow](https://img.icons8.com/color/48/git.png)
 
 ### Leetcode state
-![LeetCode Stats](https://leetcard.jacoblin.cool/NagalakshmiJK?theme=dark&font=Readex%20Pro&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NagalakshmiJK?theme=dark&font=Noto%20Serif%20Bengali&ext=heatmap)
 <!--
 **NagalakshmiJK/NagalakshmiJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
